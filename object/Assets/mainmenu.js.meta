@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 57c001b014a81c2419fbfc08d8f1a1e6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - beep: {instanceID: 0}
+  - menuskin: {instanceID: 0}
+  - instr1: {fileID: 2800000, guid: 4e254409269d38a47b5e9850869cc07a, type: 3}
+  - instr2: {fileID: 2800000, guid: 17d81fef9e474df43ac35c2b00a606ff, type: 3}
+  - instr3: {fileID: 2800000, guid: 2442826864631a54dab2f1ba2564436c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
